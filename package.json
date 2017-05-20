@@ -1,0 +1,22 @@
+{
+  "name": "roman_numbers",
+  "version": "1.0.0",
+  "description": "JS exercise arabic roman numbers translator",
+  "main": "roman_numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annavlz/RomanNumbers.git"
+  },
+  "author": "Anna Lezhikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annavlz/RomanNumbers/issues"
+  },
+  "homepage": "https://github.com/annavlz/RomanNumbers#readme",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
